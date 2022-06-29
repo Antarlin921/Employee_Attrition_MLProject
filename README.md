@@ -1,5 +1,5 @@
 # ProjectEmployee_Attrition_ML
-Prediction of Employee Attrition using Machine Learning
+Prediction of Employee Attrition using Machine Learning and finding the important factors causing it.
 
 The dataset is from https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 IBM HR Analytics Employee Attrition & Performance
